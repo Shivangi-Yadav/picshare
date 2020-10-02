@@ -1,5 +1,5 @@
 # picshare
-android application
+Android Application
 
 -Designed using Android Studio as a technical platform.
 
@@ -7,7 +7,7 @@ android application
 
 -Feature of adding message with the picture shared.
 
--Keeps log of received images, thus enabling an in-out platform for image sharing.
+-Keeps log of received images, thus enabling an in-out platform for images sharing.
 
--Created using Google Firebase as Realtime Database, Authentication and Storage.
+-Created using Google Firebase as a Realtime Database, Authentication and Storage.
 
